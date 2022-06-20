@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I+am+Aditi...;Welcome+to+my+github+profile!;&size=25)](https://git.io/typing-svg)
 
 ---
 
