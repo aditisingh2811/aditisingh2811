@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning competitive coding using JAVA.
 - 🤔 I’m looking for help with web development.
 - 📫 Reach me on aditi28singh01@gmail.com.
-- 📫 My linkedin: [![LinkedIn Badge](https://www.linkedin.com/in/aditi-kumari-b9a6ab20a/)]
+- 📫 My linkedin: [![LinkedIn Badge]](https://www.linkedin.com/in/aditi-kumari-b9a6ab20a/)
 - 💻 I like coding and learning about new technologies.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love kpop and kdramas.
