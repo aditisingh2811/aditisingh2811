@@ -6,8 +6,8 @@
 
 ---
 
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning competitive coding using JAVA.
+- 🔭 I’m a UI/UX designer and currently working on web development.
+- 🌱 I’m learning competitive coding using JAVA.
 - 🤔 I’m looking for help with web development.
 - 📫 Reach me on aditi28singh01@gmail.com.
 - 📫 My linkedin: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aditi-kumari-b9a6ab20a/)
